@@ -1,2 +1,2 @@
 # java-repo
-My first repository for java progamming
+My first repository on GitHub, created for learning java progamming through Revature!
